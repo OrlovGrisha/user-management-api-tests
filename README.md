@@ -5,7 +5,8 @@
 Данные хранятся в памяти (in-memory), сервис потокобезопасен.
 
 **Автор:** Орлов Григорий
-**GitHub:** _ссылка будет добавлена_
+
+**GitHub:** https://github.com/OrlovGrisha/user-management-api-tests
 
 ---
 
